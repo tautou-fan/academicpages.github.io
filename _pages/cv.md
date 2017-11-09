@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Applied Psychology, TianJin University of Sports, Tianjin, China, 2011
+* M.S. in Exercise and Sport Psychology, Springfield College, Massachusetts, USA, 2013
+* Ph.D in Neuroscience and Motor Control, Indiana University, Indiana, USA, 2019 (expected)
 
 Work experience
 ======
