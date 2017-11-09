@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Applied Psychology, TianJin University of Sports, Tianjin, China, 2011
-* M.S. in Exercise and Sport Psychology, Springfield College, Massachusetts, USA, 2013
+* M.S. in Exercise and Sport Psychology, Springfield College, Massachusetts, USA, 2014
 * Ph.D in Neuroscience and Motor Control, Indiana University, Indiana, USA, 2019 (expected)
 
 Work experience
