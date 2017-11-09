@@ -79,9 +79,9 @@ analytics:
 # Site Author
 author:
   name             : "Yang Liu"
-  avatar           : "images/IMG_3043.png"
+  avatar           : # "images/IMG_3043.png"
   bio              : ""
-  location         : "Location"
+  location         : 
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
